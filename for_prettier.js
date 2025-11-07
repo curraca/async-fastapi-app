@@ -1,0 +1,1 @@
+function badlyFormatted ( foo,bar){console.log("needs prettier!");return {foo:foo, bar :bar}}
